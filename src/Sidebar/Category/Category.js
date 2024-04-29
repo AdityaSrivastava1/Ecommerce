@@ -35,6 +35,13 @@ function Category({ handleChange }) {
           title="Heels"
           name="test"
         />
+
+<Input
+          handleChange={handleChange}
+          value="clothes"
+          title="clothes"
+          name="test"
+        />
       </div>
     </div>
   );
